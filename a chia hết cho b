@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">
+	var x = parseInt(prompt('Nhập vào số a:'));
+	var y = parseInt(prompt('Nhập vào số b:'));
+	if (x % y ==0){
+		alert('a chia hết cho b');
+	}else {
+		alert('a không chia hết cho b');
+	}
+</script>	
+</body>
+</html>
