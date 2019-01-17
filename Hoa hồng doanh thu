@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">
+	var x = parseInt(prompt('Số máy bán được trong tháng:'));
+	if(x>=100){
+		alert('Hoa hồng nhận được : 1 tỷ');
+	}
+	else {
+		alert('Hoa hồng nhận được : 1 củ');
+	}
+</script>	
+</body>
+</html>
