@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">
+	var x = parseInt(prompt('Nhập vào tuổi học sinh:'));
+	if (x >=16){
+		alert('đủ tuổi vào lớp 10');
+	}else {
+		alert('a không đủ tuổi vào lớp 10');
+	}
+</script>	
+</body>
+</html>
